@@ -1,4 +1,6 @@
-# Resumo Detalhado: Neurofisiologia
+# README - Neurofisiologia
+
+Este documento resume conceitos-chave de neurofisiologia, abordando a estrutura e funções do sistema nervoso central (SNC) e periférico (SNP). Destacam-se temas como neurônios, sinapses, funções cerebrais, vias sensoriais e motoras, neurotransmissores e plasticidade neural. Também explora o papel de estruturas como o sistema límbico e a barreira hematoencefálica, além de técnicas modernas para estudo neural e principais patologias neurológicas.
 
 ## 1. Sistema Nervoso Central (SNC)
 
