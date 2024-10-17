@@ -4,9 +4,12 @@ Este documento será um compilado de aulas transcrita da pós graduação em Med
 
 ## Estrutura de Aulas
 
-* AULAS
-  * [001](./AULA/001)
-    * [aula_1_parte_I](./AULAS/001/aula_1_001_part_I)
-    * [aula_1_parte_II](./AULAS/001/aula_1_001_part_II)
-    * [aula_1_parte_III](./AULAS/001/aula_1_001_part_III)
-    * [aula_1_parte_IV](./AULAS/001/aula_1_001_part_IV)
+### AULAS
+
+* [001](https://github.com/uLucasFraga/estudos-pos-graduacao/tree/main/AULAS/001)
+  * [aula_001_part_I.md](https://github.com/uLucasFraga/estudos-pos-graduacao/blob/main/AULAS/001/aula_001_part_I.md)
+
+## Como navegar
+
+* Clique nos links das pastas (001, 002, 003) para ver o conteúdo de cada aula.
+* Dentro de cada pasta de aula, você encontrará links para os arquivos específicos, como `aula_001_part_I.md`.
