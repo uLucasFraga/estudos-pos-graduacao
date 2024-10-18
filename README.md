@@ -1,4 +1,4 @@
-# README - Neurofisiologia
+# README - MEDICINA DA DOR
 
 Este documento será um compilado de aulas transcritas da pós-graduação em Medicina da Dor.
 
