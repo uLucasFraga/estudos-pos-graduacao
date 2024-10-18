@@ -1,6 +1,7 @@
 # README - Neurofisiologia
 
-DATA: 12/10/2024
+> DATA: 12/10/2024
+
 AULA_001: PARTE III
 
 ## 1. Sistema Límbico e Dor

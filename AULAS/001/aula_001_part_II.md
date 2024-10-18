@@ -1,6 +1,7 @@
 # README - Neurofisiologia
 
-DATA: 12/10/2024
+> DATA: 12/10/2024
+
 AULA_001: PARTE II
 
 ## 1. Tipos de Fibras Nervosas
