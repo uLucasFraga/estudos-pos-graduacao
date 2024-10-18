@@ -1,99 +1,104 @@
 # README - Neurofisiologia
 
-AULA - 001 - PARTE III
+AULA - 001 - PARTE IV
 
-## 1. Sistema Límbico e Dor
+## 1. Plexo Cervical
 
-- **Resumo**: O sistema límbico, incluindo a amígdala, está relacionado com o componente emocional da dor.
-  - Amígdala: relacionada com o medo e a ansiedade associados à dor
-  - Interação entre amígdala e formação hipocampal na memória emocional da dor
+- **Resumo**: Formado pelos ramos ventrais de C1 a C4.
+  - Componentes principais: nervos frênico, occipital menor, auricular magno, transverso do pescoço
+  - Inerva músculos do pescoço e fornece sensibilidade à região cervical
+  - Nervo frênico: importante para inervação do diafragma
 
-## 2. Circuito de Papez
+## 2. Plexo Braquial
 
-- **Resumo**: Circuito neural envolvido no processamento emocional e na formação de memórias.
-  - Componentes: hipocampo, fórnix, corpos mamilares, tálamo anterior, giro cingulado
-  - Importante para atribuir componente emocional às memórias
+- **Resumo**: Complexo plexo responsável pela inervação do membro superior.
+  - Raízes: C5 a T1
+  - Troncos: superior (C5-C6), médio (C7), inferior (C8-T1)
+  - Divisões: anterior e posterior
+  - Cordões: lateral, medial e posterior
+  - Nervos principais: musculocutâneo, mediano, ulnar, radial, axilar
 
-## 3. Formação Hipocampal
+## 3. Nervo Musculocutâneo
 
-- **Resumo**: Estrutura crucial para a memória, especialmente a memória espacial.
-  - Células de lugar: neurônios que se ativam em locais específicos
-  - Possível neurogênese no hipocampo adulto (ainda controverso em humanos)
-  - Papel na memória espacial demonstrado em estudos com taxistas de Londres
+- **Resumo**: Origina-se do cordão lateral do plexo braquial.
+  - Inerva músculos do compartimento anterior do braço
+  - Fornece sensibilidade à face lateral do antebraço
 
-## 4. Vias da Dor
+## 4. Nervo Mediano
 
-- **Resumo**: Múltiplas vias neurais envolvidas na transmissão e processamento da dor.
-  - Via espinotalâmica lateral: dor rápida e aguda
-  - Sistema medial da dor: dor lenta e crônica
-  - Envolvimento de várias áreas corticais no processamento da dor
+- **Resumo**: Formado por contribuições dos cordões lateral e medial.
+  - Inerva a maioria dos músculos flexores do antebraço e da mão
+  - Responsável pela sensibilidade da face palmar do polegar, indicador, médio e metade do anular
+  - Síndrome do túnel do carpo: compressão do nervo mediano no punho
 
-## 5. Matriz Cortical da Dor
+## 5. Nervo Ulnar
 
-- **Resumo**: Rede de áreas corticais envolvidas no processamento multidimensional da dor.
-  - Inclui córtex somatossensorial, ínsula, córtex cingulado anterior
-  - Processamento da localização, intensidade e aspecto emocional da dor
+- **Resumo**: Origina-se do cordão medial do plexo braquial.
+  - Inerva músculos intrínsecos da mão e alguns flexores do antebraço
+  - Responsável pela sensibilidade do quinto dedo e metade do anular
+  - Vulnerável a lesões no cotovelo (epitróclea medial)
 
-## 6. Modulação da Dor
+## 6. Nervo Radial
 
-- **Resumo**: Diversos fatores podem modular a percepção da dor.
-  - Influência do estado emocional na percepção da dor
-  - Expectativa e antecipação da dor podem alterar a experiência dolorosa
-  - Efeito placebo e nocebo na percepção da dor
+- **Resumo**: Principal ramo do cordão posterior do plexo braquial.
+  - Inerva os músculos extensores do braço e antebraço
+  - Fornece sensibilidade à face posterior do braço e antebraço, e dorso da mão
+  - Lesão pode resultar em "mão caída"
 
-## 7. Dor Referida
+## 7. Plexo Lombossacral
 
-- **Resumo**: Fenômeno onde a dor é percebida em uma localização diferente de sua origem.
-  - Exemplo: dor cardíaca percebida no braço esquerdo
-  - Relacionada à convergência de fibras nervosas no corno dorsal da medula
+- **Resumo**: Formado pelos plexos lombar e sacral, inerva o membro inferior.
+  - Plexo Lombar: L1 a L4
+  - Plexo Sacral: L4 a S4
 
-## 8. Influências Cognitivas e Emocionais na Dor
+## 8. Nervo Femoral
 
-- **Resumo**: Fatores psicológicos podem alterar significativamente a experiência da dor.
-  - Ansiedade e medo podem aumentar a percepção da dor
-  - Distração e emoções positivas podem diminuir a percepção da dor
-  - Importância do contexto na experiência dolorosa
+- **Resumo**: Principal nervo do plexo lombar.
+  - Inerva músculos do compartimento anterior da coxa
+  - Fornece sensibilidade à face anterior da coxa e medial da perna
 
-## 9. Analgesia Induzida por Estresse
+## 9. Nervo Obturador
 
-- **Resumo**: Em situações de estresse extremo, a percepção da dor pode ser suprimida.
-  - Mecanismo de sobrevivência em situações de perigo
-  - Mediado por sistemas endógenos de modulação da dor
+- **Resumo**: Origina-se do plexo lombar.
+  - Inerva músculos adutores da coxa
+  - Fornece sensibilidade à face medial da coxa
 
-## 10. Genética da Dor
+## 10. Nervo Ciático
 
-- **Resumo**: Variações genéticas podem afetar a sensibilidade à dor.
-  - Mutações em canais de sódio (ex: NaV1.7) podem resultar em insensibilidade à dor
-  - Outras mutações podem causar condições de dor crônica
+- **Resumo**: Maior nervo do corpo, origina-se do plexo sacral.
+  - Divide-se em nervos tibial e fibular comum
+  - Inerva músculos posteriores da coxa e toda a perna e pé
+  - Lesão pode causar déficits motores e sensitivos significativos no membro inferior
 
-## 11. Terapias Não-Farmacológicas para Dor
+## 11. Nervo Tibial
 
-- **Resumo**: Abordagens que não envolvem medicamentos podem modular a percepção da dor.
-  - Música: pode reduzir ansiedade e percepção da dor
-  - Imagens agradáveis: podem aumentar a tolerância à dor
-  - Ambiente clínico: pode influenciar a ansiedade e a percepção da dor dos pacientes
+- **Resumo**: Ramo do nervo ciático.
+  - Inerva músculos posteriores da perna e planta do pé
+  - Fornece sensibilidade à planta do pé
 
-## 12. Neuroplasticidade e Dor
+## 12. Nervo Fibular Comum
 
-- **Resumo**: O sistema nervoso pode se adaptar em resposta à dor crônica.
-  - Mudanças na organização cortical em condições de dor crônica
-  - Potencial para terapias baseadas na neuroplasticidade
+- **Resumo**: Outro ramo do nervo ciático.
+  - Divide-se em fibular superficial e profundo
+  - Inerva músculos do compartimento lateral e anterior da perna
+  - Lesão pode resultar em "pé caído"
 
-## 13. Interação entre Dor e Memória
+## 13. Nervos Cutâneos
 
-- **Resumo**: A dor pode influenciar fortemente a formação e recuperação de memórias.
-  - Memórias emocionais intensas associadas a experiências dolorosas
-  - Papel do hipocampo e da amígdala na formação dessas memórias
+- **Resumo**: Responsáveis pela sensibilidade da pele.
+  - Importantes para o mapeamento de dermátomos
+  - Incluem nervos como safeno, sural, fibular superficial
 
-## 14. Técnicas de Neuroimagem na Dor
+## 14. Importância Clínica
 
-- **Resumo**: Métodos modernos permitem visualizar a atividade cerebral durante a experiência de dor.
-  - fMRI e PET revelam áreas cerebrais ativas durante estímulos dolorosos
-  - Insights sobre processamento e modulação da dor no cérebro
+- **Resumo**: Conhecimento essencial para diagnóstico e tratamento.
+  - Lesões de plexo podem causar déficits complexos
+  - Síndromes compressivas (ex: túnel do carpo) são comuns
+  - Avaliação neurológica detalhada é crucial para localizar lesões
 
-## 15. Perspectivas Futuras no Tratamento da Dor
+## 15. Técnicas de Estudo
 
-- **Resumo**: Novas abordagens baseadas na compreensão dos mecanismos neurais da dor.
-  - Terapias genéticas visando canais iônicos específicos
-  - Técnicas de neuromodulação baseadas na compreensão da matriz da dor
-  - Abordagens personalizadas considerando fatores genéticos e psicológicos
+- **Resumo**: Aprendizagem da neuroanatomia requer prática e revisão constante.
+  - Uso de cadáveres e modelos anatômicos é valioso
+  - Correlação com casos clínicos ajuda na compreensão
+  - Estudo regular e repetitivo é necessário devido à complexidade
